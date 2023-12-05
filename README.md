@@ -5,4 +5,6 @@ Application made using basic python commands to :
 using the background button 
 ![new](https://github.com/vb8146649/Photoshop-Python-App-Basic/assets/133308727/ff9cd9d1-76b4-4c4b-a4e6-987c69b20512)
 
+# 2)Invert :
+using invert button 
 
